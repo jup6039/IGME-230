@@ -19,7 +19,9 @@ The player uses the WASD keys to move and the mouse to aim and shoot orbs by cli
 
 The player wins by surviving until the timer reaches zero. They do not need to shoot the ghosts or collect the fragments, but shooting the ghosts will make surviving easier. The more ghosts defeated, the less there are to dodge. The game will become increasingly difficult as the timer gets closer to zero by spawning more and more ghosts. The player can try to win the game without defeating ghosts, but this will be very difficult. The easiest way to win is to shoot the ghosts.
 ## Screenshots
-![Characters](IGME-230/characters.png)
+![Characters](https://github.com/jup6039/IGME-230/blob/master/characters.png)
+
+![Game Mock-Up](https://github.com/jup6039/IGME-230/blob/master/mockup.png)
 
 ## About the Developer
 Jae Pagulayan, 2nd year Game Design Major
