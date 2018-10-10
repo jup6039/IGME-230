@@ -1,6 +1,8 @@
 # Index
 Defeat ghosts and collect their soul fragments to escape from the forest!
 
+![Game Banner](https://github.com/jup6039/IGME-230/blob/master/banner.png)
+
 # Proposal
 ## High Concept
 Players must survive for a set amount of time while destroying ghosts and collecting their fragments.
