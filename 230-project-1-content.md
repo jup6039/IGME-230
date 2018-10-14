@@ -48,8 +48,11 @@ All art created by Jae
 * Did not use preexisting template
 * Site fully accessible without graphics
 * Images in proper format
+* Design principles applied: consistent style, easy to read and navigate, good contrast, consistent color palette
+* Responsive design features implemented
 ## Process
 10/9/2018: Finished prototype
+10/14/2018: Finished final version
 
 # Project
 Game goes here
