@@ -52,6 +52,7 @@ All art created by Jae
 * Responsive design features implemented
 ## Process
 10/9/2018: Finished prototype
+
 10/14/2018: Finished final version
 
 # Project
